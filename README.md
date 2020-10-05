@@ -11,7 +11,7 @@ I. Software Requirements:
 II. Steps to Create Virtual Environment:
 
     1. sudo apt install python3-venv
-    2. python3.7 -m venv folder_name
+    2. python -m venv folder_name
     3. Use requirements.txt file to load install all requirement packages to run Project.
 
 III. Step to use Virtual envirnment and execute project
